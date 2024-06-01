@@ -1,0 +1,240 @@
+Rank,Operator,Country,SQI,Registered Roamers,Voice SSI,Data SSI,Reg SSI,SMS SSI,Steering Config
+1,"Zain Bahrain-BHRMV(426,02)",Bahrain,25,-,-,-,40,-,-
+2,"The Bahamas Telecommunications Company Ltd-BHSBH(364,39)",Bahamas,23.957446808510642,4,-,6.25,34.86363636363636,8.299999999999999,-
+3,"Spice Nepal Private Ltd-NPLM2(429,02)",Nepal,22.124999999999996,1,-,-,35,-,-
+4,"Monaco Telecom MC-MCOK8(212,02)",Monaco,19,-,-,-,20,-,-
+5,"Three Ireland Services (Hutchison) Ltd-IRLDF(272,02)",Ireland,18.89719626168225,3,-,7,22.849999999999998,-,-
+6,"Vodafone Czech Republic a.s.-CZECM(230,03)",Czech Republic,18.76404494382023,3,-,0,25.88235294117647,-,-
+7,"Vodafone Omnitel N.V.-ITAOM(222,10)",Italy,18.36538068993672,401,9.883333333333333,7.690156599552573,26.823911111111133,8.28,-
+8,"P & T Luxembourg-LUXPT(270,01)",Luxembourg,18,-,-,-,-,-,-
+9,"Singapore Telecom Mobile Pte Ltd-SGPML(525,01)",Singapore,17.650000000000002,-,-,-,36.8,-,-
+10,"Turkcell Iletisim Hizmetleri A.S.-TURTC(286,01)",Turkey,17.554140127388536,6,-,5.5,29.635294117647064,10,-
+11,"Wind Telecomunicazioni SpA-ITAWI(222,88)",Italy,17.47770345596433,149,10,8.595890410958905,24.6,7.26,-
+12,"Vodafone Panafon-GRCCT(202,05)",Greece,17.08605072463768,54,-,5.282608695652174,32.173770491803275,7.163636363636363,-
+13,"VIPnet d.o.o.-HRVVI(219,10)",Croatia,16.546391752577318,2,-,5,32.266666666666666,-,-
+14,"Rogers Wireless Fido-CANDW(302,720)",Canada,16.24499141385232,24,9.299999999999999,7.125,24.60724637681159,6,-
+15,"PrimeTel-CYPPT(280,20)",Cyprus,15.714285714285715,3,-,10,15,10,-
+16,"Cosmote Mobile Telecommunications S.A.-GRCCO(202,01)",Greece,15.625,-,-,-,40,-,-
+17,"Hi3G Denmark ApS-DNKHU(238,06)",Denmark,15.600000000000001,-,-,-,-,-,-
+18,"Vodafone Hungary Ltd-HUNOV(216,70)",Hungary,15.482649842271297,9,-,8.571428571428571,19.784210526315793,5,-
+19,"Tango SA-LUXOC(270,77)",Luxembourg,15.4,-,-,-,40,-,-
+20,"Swisscom (Switzerland) Ltd-CHEC1(228,01)",Switzerland,15.252823631624674,20,-,5.190476190476191,27.8537037037037,7.5,-
+21,"IAM-MARM1(604,01)",Morocco,15.2,-,-,-,40,-,-
+22,"SERCOM Honduras-HNDDC(708,001)",Honduras,15.096330275229358,17,-,4.722222222222222,22.1875,8.833333333333334,-
+23,"Vodafone Libertel B.V.-NLDLT(204,04)",Netherlands,14.891216760676874,17,-,4.3,24.720000000000002,10,-
+24,"Vip mobile d.o.o.-SRBNO(220,05)",Serbia,14.851063829787233,2,-,10,25,4.4,-
+25,"Telenor Sverige AB-AAZTC(240,08)",Sweden,14.835164835164834,2,-,10,22.857142857142858,10,-
+26,"Compania Dominicana de Telefonos C. por A.-DOMCL(370,02)",Dominican Republic,14.00830115830116,403,6.473333333333334,6.110512129380055,24.24710280373832,7.719148936170213,-
+27,"Vodafone Espana S.A.-ESPAT(214,01)",Spain,13.925961325118193,1399,9.719999999999999,5.406637168141592,21.636847133757946,7.05902140672783,-
+28,"Comunicacion Celular SA Comcel SA-COLCM(732,101)",Colombia,13.949728456769359,613,1.963829787234043,6.249211356466878,23.405048076923077,8.274305555555555,-
+29,"Vodafone Telekomunikasyon A.S-TURTS(286,02)",Turkey,13.846031746031747,30,-,5.923076923076923,27.02727272727273,10,-
+30,"Vodafone Portugal-PRTOV(268,01)",Portugal,13.70924369747899,30,-,8.636363636363637,27.061000000000003,2.6666666666666665,-
+31,"Conecel S.A.-ECUPG(740,01)",Ecuador,13.62219321148825,164,4.11,5.412790697674419,25.967741935483872,8.254237288135592,-
+32,"Vodafone D2 GmbH-DEUD2(262,02)",Germany,13.487529311447451,101,10,4.49375,23.464206642066422,5.5,-
+33,"Hong Kong Telecommunications (HKT) Limited-HKGM3(454,00)",Hong Kong,13.52112676056338,5,-,10,14.2,-,-
+34,"Latvian Mobile Telephone Co-LVALM(247,01)",Latvia,13.333333333333332,1,-,-,10,-,-
+35,"Vodafone Albania-ALBOV(276,02)",Albania,13.19047619047619,2,-,10,20,-,-
+36,"America Movil Peru S.A.C-PERTM(716,10)",Peru,12.983591885441529,385,3.8761904761904766,4.199481865284974,21.010927573062265,8.77258064516129,-
+37,"BH Telecom Joint Stock Company Sarajevo-BIHOD(218,90)",Bosnia,13.000000000000002,1,-,-,25,-,-
+38,"Claro-BRACL(724,05)",Brazil,12.73754146360444,3973,1.2620853080568721,5.520912034538586,21.279899190468917,8.107638072855465,-
+39,"PTK Centertel-POL03(260,03)",Poland,12.409937888198757,9,-,6.555555555555555,10.52,10,-
+40,"Telenor Norge AS-NORTM(242,01)",Norway,12.431372549019608,3,-,6,18.966666666666665,10,-
+41,"Telefonica Moviles Venezuela S.A.-VENMS(734,04)",Venezuela,12.252525252525256,399,9.75,6.486666666666666,14.716783216783217,7.41159420289855,-
+42,"NTT DoCoMo Inc-JPNDO(440,10)",Japan,12.34375,7,-,-,27.727272727272727,0,-
+43,"Vodacom Tanzania Limited-TZAOV(640,04)",Tanzania,12.145454545454548,2,-,5,12.5,10,-
+44,"Slovak Telekom a.s.-SVKET(231,02)",Slovakia,11.973333333333334,2,-,4,10,-,-
+45,"Claro Chile SA-CHLSM(730,03)",Chile,11.811848286925633,2054,3.2065789473684214,7.605187319884727,15.012334315169367,7.108163265306122,-
+46,"Claro CR Telecomunicaciones S.A.-CRICL(712,03)",Costa Rica,11.840825350036843,95,5,5.424603174603175,20.121951219512194,10,-
+47,"Rostov Cellular Communications-RUST2(250,20)",Russia,11.833333333333336,29,-,5.84375,22.647058823529413,-,-
+48,"Advanced Wireless Network Co Ltd-THAK9(520,03)",Thailand,11.696551724137931,21,10,7.722222222222222,14.7,8.044444444444444,-
+49,"SI.Mobil d.d.-SVNSM(293,40)",Slovenia,11.607843137254903,2,-,5.333333333333333,20,6.5,-
+50,"Maxis Communications Berhad-MYSBC(502,12)",Malaysia,11.55,-,-,-,18.049999999999997,-,-
+51,"StarHub Mobile Pte Ltd-SGPMM(525,05)",Singapore,11.422222222222224,4,-,10,14,10,-
+52,"Flow Panama-PANCW(714,01)",Panama,11.265947006869476,46,-,5.431034482758621,16.659756097560976,10,-
+53,"ATM MOBILIS-DZAA1(603,01)",Algeria,11.321428571428571,3,-,-,17.599999999999998,-,-
+54,"Vodacom Group Pty Ltd.-ZAFOV(655,01)",South Africa,10.875,-,-,-,10.0875,-,-
+55,"Nuevatel PCS De Bolivia SA-BOLNT(736,01)",Bolivia,10.805379623113614,1220,2.5423728813559316,5.21790678659035,17.82064451158107,7.11842105263158,-
+56,"Bharti Airtel Ltd. Mumbai-INDA1(404,92)",India,10.833333333333332,1,-,-,25,-,-
+57,"Telia Finland-FINTF(244,91)",Finland,10.65,4,-,3.75,26,5,-
+58,"Digicel Suriname NV-SURDC(746,03)",Suriname,10.700000000000001,-,-,-,32.699999999999996,-,-
+59,"Tele2 Eesti AS-ESTRB(248,03)",Estonia,10.649999999999999,-,-,-,20,-,-
+60,"Belgacom Mobile-BELHB(206,01)",Belgium,10.467289719626166,12,-,6.666666666666667,15.909090909090908,5.300000000000001,-
+61,"T-Mobile USA Inc-USA16(310,160)",United States of America,10.40685925715099,617,10,5.657575757575757,20.673441994247362,7.580981595092023,-
+62,"Bouygues Telecom-FRAF3(208,20)",France,10.359513930053348,526,0,8.216905901116428,13.446858638743457,5.890000000000001,-
+63,"Xfera Moviles SA-ESPOC(214,04)",Spain,10.222667429879797,298,-,9.76775956284153,11.616766467065869,5.8,-
+64,"Vodafone Pacific Limited-AUSOV(505,03)",Australia,10.17974180734856,123,10,7.242424242424242,12.805429864253394,8.39032258064516,-
+65,"Empresa Nicaraguense de Telecomunicaciones S.A.-NICEN(710,21)",Nicaragua,10.231404958677683,10,5,5.615384615384615,14.736842105263158,8.75,-
+66,"Oman Telecommunications Company-OMNGT(422,02)",Oman,10.24,2,-,-,12.6,10,-
+67,"Vodafone Ltd-GBROV(234,15)",United Kingdom,10.14341085271318,44,6.2,6.681818181818182,14.466101694915254,5.342857142857143,-
+68,"Vodafone Mobile NZ Limited-NZLBS(530,01)",New Zealand,10.054358013120899,43,-,4.488372093023256,14.473684210526315,7.077777777777778,-
+69,"Bell Mobility Inc.-CANBM(302,610)",Canada,10.146341463414634,18,-,6,17.419047619047618,10,-
+70,"Servei De Tele. DAndorra-ANDMA(213,03)",Andorra,10.022900763358779,28,-,5,11.875,6.3,-
+71,"Emirates Integrated Telecommunications Company-AREDU(424,03)",United Arab Emirates,10.02996254681648,13,10,7.291666666666667,14,8.15,-
+72,"Mobiltel EAD-BGR01(284,01)",Bulgaria,10,4,-,10,10,-,-
+73,"Hutchison CP Telecommunications-IDN89(510,89)",Indonesia,10,3,-,10,10,-,-
+74,"Zain KSA-SAUZN(420,04)",Saudi Arabia,10,3,-,-,10,-,-
+75,"Jordan Mobile Telephone Services (JMTS)-JORFL(416,01)",Jordan,10,2,-,10,-,-,-
+76,"Tunisie Telecom-TUNTT(605,02)",Tunisia,10,2,-,-,10,-,-
+77,"Bharti Airtel Ltd. Punjab-INDA9(404,02)",India,10,2,-,-,10,-,-
+78,"Dialog Telekom PLC-LKADG(413,02)",Sri Lanka,10,1,-,10,-,-,-
+79,"CTM-MACCT(455,01)",Macau,10,1,-,10,10,-,-
+80,"Telenor A/S-DNKDM(238,02)",Denmark,10,1,-,-,10,-,-
+81,"Bharti Airtel Ltd. Rajasthan-INDH1(404,70)",India,10,1,-,-,10,-,-
+82,"CVMovel S.A.-CPVCV(625,01)",Cape Verde,10,1,-,-,10,-,-
+83,"Kar Tel Ltd-KAZKT(401,01)",Kazakhstan,9.857142857142858,11,-,-,9.852941176470589,10,-
+84,"KPN B.V.-NLDPT(204,08)",Netherlands,9.923809523809524,6,-,5.5,21.34166666666667,10,-
+85,"Vodafone Romania S.A.-ROMMF(226,01)",Romania,9.56807511737089,6,-,10,13.885714285714284,5,-
+86,"Vodafone Ireland Ltd.-GBROV(272,01)",Ireland,9.548117154811715,17,-,5.428571428571429,13.846153846153847,10,-
+87,"Telia Nattjanster Norden AB-DNKIA(238,20)",Denmark,9.443786982248524,2,-,5,23.076923076923077,-,-
+88,"Vivo S.A.-BRAK4(724,06)",Brazil,9.345271679136513,457,10,5.130434782608695,13.024444444444445,6.8244186046511635,-
+89,"Pelephone Communications Ltd.-ISRK7(425,03)",Israel,9.297730307076101,40,0,4,16.956521739130434,8.01,-
+90,"KT-KORKF(450,08)",South Korea,9.347826086956523,14,-,9,10,5,-
+91,"Ooredoo Q.S.C.-QATQT(427,01)",Qatar,9.285714285714285,2,-,10,10,0,-
+92,"Orange Egypt-EGYAR(602,01)",Egypt,9.185840707964601,13,10,5.625,13.75,10,-
+93,"Digicel Curacao-ANTCT(362,69)",Netherlands Antilles,9.194029850746269,10,-,8.333333333333334,10,0,-
+94,"FE VELCOM-BLRMD(257,01)",Belarus,9.162790697674419,5,0,10,17.77777777777778,7.4,-
+95,"UNITEL S.a.r.l.-AGOK9(631,02)",Angola,9.244444444444445,5,-,5,10,10,-
+96,"Azercell Telecom BM-AZEAC(400,01)",Azerbaijan,9.23076923076923,1,-,10,7.5,10,-
+97,"Bharti Airtel Ltd. Haryana-INDA5(404,96)",India,9.23076923076923,1,10,-,10,5.2,-
+98,"New Millenium Telecom Services (NMTS)-ABWDC(363,02)",Aruba,8.986807387862797,27,-,6.456521739130435,12.916666666666666,8.571428571428571,-
+99,"Salt Mobile SA-CHEOR(228,03)",Switzerland,8.978354978354979,6,-,4.8,16.666666666666668,10,-
+100,"Medi Telecom-MARMT(604,00)",Morocco,8.755395683453237,34,-,5.416666666666667,10.645454545454546,10,-
+101,"TMN-PRTEP(268,06)",Portugal,8.75,5,-,6.333333333333333,12.044444444444444,0,-
+102,"KPN Group Belgium NV/SA-BELKO(206,20)",Belgium,8.833333333333334,3,-,8.5,10,-,-
+103,"Radiomovil Dipsa SA de CV (Telcel)-MEXTL(334,020)",Mexico,8.655631072009344,1369,3.253225806451613,5.132379793061473,12.846206896551726,6.7875,-
+104,"China Mobile-CHNCM(460,00)",China,8.747961715703651,208,10,6.261658031088083,11.426642335766426,8.361764705882353,-
+105,"AMX Paraguay S.A.-PRYHT(744,02)",Paraguay,8.606211474632529,998,8.364285714285716,-,12.392571012381646,0.3908108108108108,-
+106,"TELUS Communications-CANTS(302,220)",Canada,8.571428571428571,8,-,3.5,12.692307692307692,10,-
+107,"Puerto Rico Telephone Company Inc.-PRICL(330,110)",Puerto Rico,8.566666666666668,3,-,2.25,15,-,-
+108,"A1 Telekom Austria AG-AUTMK(232,01)",Austria,8.536082474226806,23,-,6.833333333333333,10,0,-
+109,"CTE Telecom Personal SA de CV-SLVTP(706,01)",El Salvador,8.546052631578949,19,-,6.805555555555555,11.2,9.3,-
+110,"Croatian Telecom Inc.-HRVCN(219,01)",Croatia,8.53763440860215,5,10,6.25,13.333333333333334,10,-
+111,"Mobile TeleSystems (MTS)-RUS01(250,01)",Russia,8.5,1,-,-,7.5,-,-
+112,"Safaricom Limited-KENSA(639,02)",Kenya,8.5,1,-,-,8.4,-,-
+113,"Globe Telecom-PHLGT(515,02)",Philippines,8.421052631578947,10,0,5,16.21818181818182,0,-
+114,"Cellcom Israel Ltd-ISRCL(425,02)",Israel,8.344370860927151,11,-,3.5555555555555554,9.79375,6.549999999999999,-
+115,"Taiwan Star Telecom Corporation Limited-TWNK9(466,89)",Taiwan,8.323699421965319,9,0,4.545454545454546,14.117647058823529,10,-
+116,"Empresa de Telecommunicaciones de Cuba SA (ETECSA)-CUB01(368,01)",Cuba,8.177860696517412,21,10,-,23.57894736842105,4,-
+117,"Corporacion Digitel C.A.-VEND2(734,02)",Venezuela,8.24,5,-,7.428571428571429,10,6.5,-
+118,"Vodacom Congo (RDC) sprl-CODOV(630,01)",Democratic Republic of the Congo,8.157894736842106,2,-,10,10,-,-
+119,"AMX Argentina S.A.-ARGCM(722,310)",Argentina,8.083284180724316,709,0,-,16.333311518324614,8.121505376344086,-
+120,"Telefonica Moviles Colombia S.A.-COLTM(732,123)",Colombia,8.085561497326204,7,-,6.642857142857143,13.657142857142858,10,-
+121,"Verizon Wireless-USAK4(310,590)",United States of America,8.006534006534007,572,-,6.378099173553719,10.078328981723237,6.860869565217392,-
+122,"Emerging Markets Telecommunication Services Ltd-NGAEM(621,60)",Nigeria,8,1,-,-,-,7.7,-
+123,"Digicel Trinidad and Tobago Ltd-TTODL(374,130)",Trinidad and Tobago,7.936395759717313,20,9.65,6.605263157894737,11.578947368421053,10,-
+124,"Digicel Jamaica Limited-JAMDC(338,050)",Jamaica,7.746770025839791,33,-,4.9655172413793105,10.362162162162162,5,-
+125,"Og fjarskipti hf-ISLTL(274,02)",Iceland,7.3076923076923075,3,-,5,10,-,-
+126,"T-Mobile Austria GmbH-AUTAT(232,03)",Austria,7.343511450381678,2,-,0,10.971428571428572,-,-
+127,"SoftBank Mobile-JPNJP(440,20)",Japan,7.08,9,-,5.8,10,10,-
+128,"Mobistar S.A.-BELMO(206,10)",Belgium,7.096774193548387,3,-,2.25,20,-,-
+129,"Telenor Magyarorszag Zrt-HUNH1(216,01)",Hungary,7.135135135135135,2,-,6.666666666666667,7.7749999999999995,-,-
+130,"Mobisle Communications Limited-MLTGO(278,21)",Malta,7.027027027027026,19,-,3,11.153846153846153,8.6,-
+131,"AM Wireless Uruguay S.A.-URYAM(748,10)",Uruguay,6.893175074183977,495,8.333333333333334,-,11.37396694214876,2.1136842105263156,-
+132,"Telekom Deutschland-DEUD1(262,01)",Germany,6.850746268656716,32,-,5.325,9.803999999999998,10,-
+133,"Bharti Airtel Ltd. Bihar-IND12(405,52)",India,6.88888888888889,4,0,10,10,-,-
+134,"Orange Caraibe-GLP01(340,01)",French West Indies,6.909090909090908,1,-,5,10,-,-
+135,"Tele 2 AB-SWEIQ(240,07)",Sweden,6.909090909090908,1,-,5,10,-,-
+136,"PT Indonesian Satellite Corporation Tbk (Indosat)-IDNIM(510,01)",Indonesia,6.724137931034483,12,-,7.5,9.393333333333334,5.5,-
+137,"OJSC VimpelCom-RUSBD(250,99)",Russia,6.476190476190476,11,-,6,9.23076923076923,0,-
+138,"Hutchison 3G UK Ltd-GBRHU(234,20)",United Kingdom,6.387665198237885,18,-,5.428571428571429,10,7.65,-
+139,"Sercom S.A. (Guatemala)-GTMSC(704,01)",Guatemala,6.2287234042553195,27,1.6666666666666667,4.319999999999999,11.785714285714286,9.1875,-
+140,"Vodafone Egypt Telecommunications S.A.E-EGYMS(602,02)",Egypt,5.88235294117647,1,-,0,10,10,-
+141,"AT&T Mobility-USAAT(310,030)",United States of America,5.776202531645571,56,-,3.9607843137254903,10.132743362831858,5.555555555555555,-
+142,"Telefonica Germany-DEUE1(262,03)",Germany,5.816393442622952,8,-,5,8.58095238095238,1.4249999999999998,-
+143,"Bharti Airtel Ltd. Andhra Pradesh-INDJH(404,49)",India,5.757575757575757,2,10,0,10,-,-
+144,"Bharti Airtel Ltd. Maharastra & Goa-INDA2(404,90)",India,5.333333333333333,1,-,0,10,-,-
+145,"Airtel DR Congo-CODCT(630,02)",Democratic Republic of the Congo,5.275590551181104,1,0,-,15,-,-
+146,"Singtel Optus Limited-AUSOP(505,02)",Australia,5.133333333333335,32,-,-,8.031481481481482,-,-
+147,"Saudi Telecom Company (STC)-SAUAJ(420,01)",Saudi Arabia,5,2,-,5,5,-,-
+148,"Bharti Airtel Ltd. Delhi-INDAT(404,10)",India,4.814814814814815,2,0,5,10,10,-
+149,"Sunrise Communications AG-CHEDX(228,02)",Switzerland,4.705882352941177,10,-,10,7.6625,-,-
+150,"Telia Company AB-SWETR(240,01)",Sweden,4.1499999999999995,-,-,-,-,-,-
+151,"Bharti Airtel Ltd. Gujarat-INDA3(404,98)",India,3.91304347826087,2,0,5,-,10,-
+152,"Kyivstar GSM JSC-UKRKS(255,02)",Ukraine,3.9,-,-,-,12.5,-,-
+153,"Polska Telefonia Cyfrowa-POL02(260,02)",Poland,3.6363636363636362,1,-,0,10,-,-
+154,"Vodafone Malta Limited-AAZOV(278,01)",Malta,3.5483870967741935,1,-,10,5,-,-
+155,"AT&T Maritime-BMU01(901,18)",United States of America,3.1611721611721606,7,-,-,10.546875,0,-
+156,"Viettel Corporation-VNMK8(452,04)",Vietnam,3.166666666666666,2,-,0,7.1,10,-
+157,"France Telecom Espana SA-ESPRT(214,03)",Spain,3.1270230505149583,3,-,10,0.3431372549019608,-,-
+158,"Orange France-FRAF1(208,01)",France,3.021428571428572,4,-,-,5.625,-,-
+159,"Telia Norge AS-NORNC(242,02)",Norway,3.0000000000000004,-,-,-,-,-,-
+160,"Digicel Guyana-GUYK9(738,01)",Guyana,2.758620689655172,2,-,0,10,-,-
+161,"Vodafone Ghana-GHAGT(620,02)",Ghana,2.571428571428571,1,-,2.5,-,-,-
+162,"Telefonica Movil de Chile-CHLB2(730,02)",Chile,1.8108640585420772,11,-,7.222222222222222,2.955801104972376,3.3333333333333335,-
+163,"SFR-FRA09(208,09)",France,1.4805725971370143,15,-,4.166666666666667,2.6841121495327105,0,-
+164,"Telefonica Moviles Panama S.A.-PANMS(714,020)",Panama,1.2136752136752138,1,-,10,0.5555555555555556,-,-
+165,"Telefonica Celular De Bolivia S.A.-BOLK9(736,03)",Bolivia,1.1262714836899332,7,-,6.5,0.7241379310344828,10,-
+166,"Taiwan Mobile Co.Ltd-TWNOC(466,97)",Taiwan,0.8906250000000001,1,-,-,3.125,-,-
+167,"Telefonica Moviles Espana S.A.-ESPT2(214,05)",Spain,0.8324324324324325,4,7.1,5,1.4000000000000001,10,-
+168,"Emirates Telecom Corp Etisalat-ARETC(424,02)",United Arab Emirates,0.41250000000000003,-,-,-,0,-,-
+169,"Telefonica de Costa Rica TC S.A.-CRITC(712,04)",Costa Rica,0.3923076923076923,-,-,-,1.9384615384615385,-,-
+170,"Entel Telefonia Movil S.A.-CHLK9(730,01)",Chile,0.3120810155469976,10,-,5,0.6410256410256411,7.65,-
+171,"TIM Celular S.A.-BRACS(724,02)",Brazil,0.17437722419928825,2,-,7.5,0.2967741935483871,-,-
+172,"Telefonica Moviles S.A.-PERMO(716,06)",Peru,0.10152284263959391,2,-,-,0.4878048780487805,-,-
+173,"Telstra Corporation Limited-AUSTA(505,01)",Australia,0.12307692307692308,-,-,-,0,-,-
+174,"Entel SA-BOLME(736,02)",Bolivia,0.03487792725460887,2,-,-,0.1477832512315271,10,-
+175,"Telefonica Celular Del Paraguay S.A.-PRYK8(744,04)",Paraguay,0.044740727484228894,1,-,4,0.06627906976744186,-,-
+176,"Telefonica Moviles Argentina S.A-ARG01(722,010)",Argentina,0.018148820326678767,1,-,-,0.09009009009009009,-,-
+177,"Telecom Italia SpA-ITASI(222,01)",Italy,0,1,-,-,0,-,-
+178,"Vietnamobile Telecommunications JSC-VNMK9(452,05)",Vietnam,0,-,-,-,0,-,-
+179,"SmarTone Mobile Communications Limited-HKGSM(454,06)",Hong Kong,0,-,-,-,0,-,-
+180,"Digicel S.A. de C.V.-SLVDC(706,02)",El Salvador,0,-,-,-,0,-,-
+181,"Cyprus Telecommunications Auth-CYPCT(280,01)",Cyprus,0,-,-,-,0,-,-
+182,"Liberty Mobile P R-PRI01(313,790)",United States of America,0,-,-,-,0,-,-
+183,"Telefonica Moviles-URYTM(748,07)",Uruguay,0,-,-,-,0,-,-
+184,"Flow St Kitts & Nevis Limited-KNACW(356,110)",Saint Kitts and Nevis,0,-,-,-,0,-,-
+185,"Avea Iletisim Hizmetleri A.S.-TURAC(286,04)",Turkey,0,-,-,-,0,-,-
+186,"VM S.A.R.L.-MOZOV(643,04)",Mozambique,0,-,-,-,0,-,-
+187,"Antel Uruguay-URYAN(748,01)",Uruguay,0,-,-,-,0,-,-
+188,"Magticom Ltd-GEOK9(282,02)",Georgia,0,-,-,-,-,-,-
+189,"CWCC (St. Vincent & the Grenadines) Ltd-VCTCW(360,110)",Saint Vincent and the Grenadines,0,-,-,-,0,-,-
+190,"Telekom Albania Sh.A.-ALBAM(276,01)",Albania,0,-,-,-,0,-,-
+191,"Cosmo Bulgaria Mobile EAD-BGRCM(284,05)",Bulgaria,0,-,-,-,0,-,-
+192,"China Unicom-CHNCC(460,01)",China,0,-,-,-,0,-,-
+193,"SETAR (Servicio di Telecomunicacion di Aruba)-ABWK9(363,01)",Aruba,0,-,-,-,0,-,-
+194,"Nextel del Peru S.A.-PERK9(716,17)",Peru,0,-,-,-,0,-,-
+195,"Setel NV-ANTK8(362,91)",Netherlands Antilles,0,-,-,-,0,-,-
+196,"Smart Communications Inc-PHLSR(515,03)",Philippines,0,-,-,-,0,-,-
+197,"Telefonia Celular de Nicaragua S.A.-NICMS(710,300)",Nicaragua,0,-,-,-,0,-,-
+198,"Vietnam Mobile Telecom Services Company-VNMK7(452,01)",Vietnam,0,-,-,-,0,-,-
+199,"Mobilink PMCL-PAKMK(410,01)",Pakistan,0,-,-,-,0,-,-
+200,"Orascom Telecom Algerie Spa-DZAOT(603,02)",Algeria,0,-,-,-,0,-,-
+201,"Telenor Pakistan (Pvt) Ltd.-PAKTP(410,06)",Pakistan,0,-,-,-,0,-,-
+202,"I.C.E. (Instituto Costarricense de Electricidad)-CRICR(712,01)",Costa Rica,0,-,-,-,0,-,-
+203,"Comcel Communicaciones Celulares Sociedad Anonima-GTMCM(704,02)",Guatemala,0,-,-,-,0,-,-
+204,"Partner Communications Company Ltd-ISR01(425,01)",Israel,0,-,-,-,0,-,-
+205,"PT Telekomunikasi Selular-IDNTS(510,10)",Indonesia,0,-,-,-,0,-,-
+206,"Orange Dominicana S.A.-DOM01(370,01)",Dominican Republic,0,-,-,-,0,-,-
+207,"LLC Ekaterinburg 2000-RUSEC(250,35)",Russia,0,-,-,-,0,-,-
+208,"Colombia Movil SA-COLCO(732,111)",Colombia,0,-,-,-,0,-,-
+209,"Etihad Etisalat Company-SAUET(420,03)",Saudi Arabia,0,-,-,-,0,-,-
+210,"WOM S.A.-CHLK8(730,09)",Chile,0,-,-,-,0,-,-
+211,"Telecomunicaciones Movilnet C.A.-VENMV(734,06)",Venezuela,0,-,-,-,0,-,-
+212,"Asia Cell Telecommunications Company Ltd-IRQAC(418,05)",Iraq,0,-,-,-,0,-,-
+213,"Freedom Mobile-CANGW(302,490)",Canada,0,-,-,-,0,-,-
+214,"Globacom Ltd.-NGAGM(621,50)",Nigeria,0,-,-,-,0,-,-
+215,"Sentel GSM S.A.-SENSG(608,02)",Senegal,0,-,-,-,-,-,-
+216,"Videotron-CANVT(302,500)",Canada,0,-,-,-,0,-,-
+217,"Hutchison Drei Austria GmbH-AUTCA(232,05)",Austria,0,-,-,-,0,-,-
+218,"SK Telecom-KORSK(450,05)",South Korea,0,-,-,-,0,-,-
+219,"Meteor Mobile Telecommunications Limited-IRLME(272,03)",Ireland,0,-,-,-,0,-,-
+220,"Wana Corporate S.A.-MARM3(604,02)",Morocco,0,-,-,-,0,-,-
+221,"MTS Uzbekistan-UZB07(434,07)",Uzbekistan,0,-,-,-,0,-,-
+222,"Pakistan Telecommunciation Mobile Ltd-PAKUF(410,03)",Pakistan,0,-,-,-,0,-,-
+223,"Robi-BGDAK(470,02)",Bangladesh,0,-,-,-,0,-,-
+224,"Hi3G Access AB-SWEHU(240,02)",Sweden,0,-,-,-,0,-,-
+225,"Vietnam Telecom Services Company (GPC)-VNMK6(452,02)",Vietnam,0,-,-,-,0,-,-
+226,"Tele2 d.o.o za telekomunikacijske uluge-HRVT2(219,02)",Croatia,0,-,-,-,0,-,-
+227,"Telefonica Celular S.A (Celtel)-HND02(708,02)",Honduras,0,-,-,-,0,-,-
+228,"True Move H Universal Communication-THACA(520,00)",Thailand,0,-,-,-,0,-,-
+229,"TDC A/S-DNKTD(238,01)",Denmark,0,-,-,-,0,-,-
+230,"Free Mobile-FRAFM(208,15)",France,0,-,-,-,0,-,-
+231,"Bharat Sanchar Nigam Ltd. West Bengal-INDWB(404,74)",India,0,-,-,-,0,-,-
+232,"Be Aliv Limited-BHSNC(364,49)",Bahamas,0,-,-,-,0,-,-
+233,"P4 Sp. z o.o-POLP4(260,06)",Poland,0,-,-,-,0,-,-
+234,"Telecommunications Services of Trinidad and Tobago-TTO12(374,12)",Trinidad and Tobago,0,-,-,-,0,-,-
+235,"MTN Mobile Telephone Networks (Pty) Ltd.-ZAFMM(655,10)",South Africa,0,-,-,-,0,-,-
+236,"Orange S.A.-LUXVM(270,99)",Luxembourg,0,-,-,-,0,-,-
+237,"Flow Grenada Ltd.-GRDCW(352,110)",Grenada,0,-,-,-,0,-,-
+238,"Two Degrees Mobile Limited-NZLK9(530,24)",New Zealand,0,-,-,-,0,-,-
+239,"AT&T Comunicaciones Digitales-AAZAT(334,090)",Mexico,0,-,-,-,0,-,-
